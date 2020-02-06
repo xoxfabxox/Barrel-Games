@@ -1,0 +1,6 @@
+echo "# Barrel-Games" >> README.md
+git init
+git add README.md
+git commit -m "Le premier commit test"
+git remote add origin https://github.com/xoxfabxox/Barrel-Games.git
+git push -u origin master
